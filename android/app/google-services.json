@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1049308902567",
+    "project_id": "interneelearningapp",
+    "storage_bucket": "interneelearningapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049308902567:android:ca7ee130560fa0b1fad782",
+        "android_client_info": {
+          "package_name": "com.example.internee_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR8bcg1rM6o7nHh4jAwtsa6uNvelwH5Wk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
